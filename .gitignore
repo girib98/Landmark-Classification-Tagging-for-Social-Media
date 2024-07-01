@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.pytest_cache
+./checkpoints
+./checkpoints_testing
+,.static_images
